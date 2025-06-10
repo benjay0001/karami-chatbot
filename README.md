@@ -53,14 +53,14 @@ Karami solves this by using **WhatsApp**, which they already use, to deliver **f
 ---
 
 ## Folder Structure
-karami/
-├── README.md
-├── chatbot_flow.txt
-├── karami_bot.py
-├── media/
-│ ├── eat.gif
-│ └── thank_you.gif
-└── docs/
+Karami/
+├── bot.py # Basic chatbot logic (prototype)
+├── README.md # Project documentation
+├── media/ # Sign language media files
+│ └── alphabets/
+│ ├── a.gif.mp4 # NSL sign for A
+│ ├── b.gif.mp4 # NSL sign for B
+│ └── c.gif.mp4 # NSL sign for C
 
 
 ---
