@@ -1,6 +1,6 @@
 # Karami
 
-**Karami** is a WhatsApp-based mini-app that helps Nigerian parents and caregivers of deaf or hard-of-hearing children learn Nigerian Sign Language (NSL) — one sign at a time.
+**Karami** is a WhatsApp-based mini-app that helps Nigerian parents and caregivers of deaf or hard-of-hearing children learn Nigerian Sign Language (NSL), one sign at a time.
 
 ---
 
@@ -9,10 +9,10 @@
 Karami sends simple, daily NSL lessons through WhatsApp using:
 - Short looping GIFs to show each sign
 - One-line text explanations
-- Curriculum-based modules (mealtime, hygiene, emotions, etc.)
+- Curriculum-based modules
 - Interactive quizzes via WhatsApp
 - "Ask-a-Sign" search tool (like a dictionary)
-- Progress tracker + printable flashcards (paid plan)
+- Progress tracker
 
 ---
 
