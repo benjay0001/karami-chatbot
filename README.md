@@ -74,3 +74,14 @@ Karami/
 ## License
 
 MIT License
+
+---
+
+## How to Run the Demo Locally
+
+> This is a basic simulation of how Karami could work as a WhatsApp chatbot. It's written in Python and runs in the terminal.
+
+1. Clone the repo:
+```bash
+git clone https://github.com/benjay0001/karami-chatbot.git
+
